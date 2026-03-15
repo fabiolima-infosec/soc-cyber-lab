@@ -75,13 +75,12 @@ Automation scripts used in the lab
 
 ## Project Phases
 
-Phase 1 – Virtual machine setup
-Phase 2 - Network configuration
-Phase 3 – Wazuh installation
-Phase 4 – Wazuh agent installation
-Phase 5 – Attack simulation
-Phase 6 – Detection and log analysis 
-
+Phase 1 – Virtual machine setup  
+Phase 2 – Network configuration  
+Phase 3 – Wazuh installation  
+Phase 4 – Wazuh agent installation  
+Phase 5 – Attack simulation  
+Phase 6 – Detection and log analysis
 ---
 
 ## Purpose
