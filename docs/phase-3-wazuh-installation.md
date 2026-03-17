@@ -71,3 +71,7 @@ Filebeat
 ### Status
 
 Wazuh successfully installed and dashboard accessible.
+
+## Wazuh Dashboard
+
+![Wazuh Dashboard](../images/wazuh-dashboard.png)
