@@ -89,8 +89,9 @@ Phase 1 – Virtual machine setup
 Phase 2 - Network Configuration  
 Phase 3 – Wazuh installation  
 Phase 4 – Wazuh agent installation  
-Phase 5 – Attack simulation  
-Phase 6 – Detection and log analysis  
+Phase 5 - Sysmon instalation  
+Phase 6 – Attack simulation  
+Phase 7 – Detection and log analysis  
 
 ---
 
